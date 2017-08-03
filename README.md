@@ -3,5 +3,5 @@
 
 
 ###效果图如下：
-![](http://i.imgur.com/XNK1MWx.gif)
+![](http://i.imgur.com/BRr34xm.gif)
 
